@@ -3,7 +3,6 @@ h3 {
 }
 
 body {
-  background-color: #e1ffc2;
   font-family: 'Merriweather', serif;
 }
 
@@ -19,6 +18,7 @@ body {
 
 .heya {
   text-align: center;
+  padding-top: 50px;
 }
 
 .heya p {
@@ -27,8 +27,7 @@ body {
 }
 
 #profile {
-  background-color: #ec823a;
-  border-radius: 50px;
+  background-color:#66bfbf;
 }
 
 .container-flex {
@@ -38,6 +37,10 @@ body {
 
 .skill .container-flex {
   flex-wrap: wrap;
+}
+.intro-vid{
+  height: 100%;
+  width:100%;
 }
 
 hr {
@@ -72,4 +75,10 @@ a img {
 
 .skill span {
   width: 300px;
+}
+.skill{
+  margin-top: 50px;
+}
+.contact{
+  margin-top: 50px;
 }
